@@ -2,7 +2,7 @@
 <div align="center"><a href="#"><img alt="Aca deberia ir mi foto ¯\_(ツ)_/¯" src="foto.PNG" width="430" height="430"></a></div>
 
 > Que la gente crea, porque tiene con que creer.  — Marcelo Gallardo
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Acerca de mí
 
 - 🐔 Paradelista de José Antonio Paradela
 
